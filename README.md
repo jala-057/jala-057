@@ -1,11 +1,11 @@
 ⚛️ Chemical Engineering Honors Scholar & Plant-based Innovation Research Assistant 🌱 Interested in Interdisciplinary Engineering & Sustainable Biotech Opportunities
 
 I have experience with
-• engineering process development ⚙️
+engineering process development ⚙️
 • environmental research 🔬
 
 I enjoy and actively volunteer in 
-• sustainable agriculture 🚜 
+sustainable agriculture 🚜 
 • STEM education 🎓 
 • product design 🎨
 • process optimization 📐
