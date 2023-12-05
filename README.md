@@ -1,8 +1,15 @@
-- 👋 Hi, I’m @jala-057
-- 👀 I’m interested in sustainability, nutrition, agriculture, & gardening.
-- 🌱 I’m currently learning fundamental Python coding.
-- 💞️ I’m looking to collaborate on a sustainability research team.
-- 📫 How to reach me: jamesalamia57@gmail.com
+⚛️ Chemical Engineering Honors Scholar & Plant-based Innovation Research Assistant 🌱 Interested in Interdisciplinary Engineering & Sustainable Biotech Opportunities
+
+I have experience with
+• engineering process development ⚙️
+• environmental research 🔬
+
+I enjoy and actively volunteer in 
+• sustainable agriculture 🚜 
+• STEM education 🎓 
+• product design 🎨
+• process optimization 📐
+
 
 <!---
 jala-057/jala-057 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
